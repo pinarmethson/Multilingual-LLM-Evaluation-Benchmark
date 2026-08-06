@@ -3,13 +3,14 @@
 ## Summary
 - Samples: 30 (mix of EN→TR and TR→EN)
 - Score distribution:
-  - 5: 5
-  - 4: 10
-  - 3: 8
-  - 2: 5
-  - 1: 2
-- Mean score: 3.37
-- Median score: 3.5
+  - 5: 8
+  - 4: 12
+  - 3: 7
+  - 2: 2
+  - 1: 1
+- Mean score: 3.80
+- Median score: 4
+- Stdev (sample): 1.03
 
 ## Method
 - Annotation rubric: 1–5 (see rubric.md)
@@ -26,7 +27,7 @@
 4. Omission errors
    - Missing negation or modality was present in several mid/low-score cases and can flip the sentence meaning.
 5. Hallucinations
-   - Rare (2/30) but high-impact when present — typically full addition of facts not in the source.
+   - Rare (1/30) but high-impact when present — typically full addition of facts not in the source.
 6. Register and formality
    - Pronoun choice (sen vs siz) and formality-level inconsistencies appear in some outputs.
 
