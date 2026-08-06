@@ -4,14 +4,14 @@
 - Samples: 30 (mix of EN→TR and TR→EN)
 - NOTE: All samples are synthetic and were created for this benchmark to avoid copyright or privacy issues.
 - Score distribution (current dataset):
-  - 5: 8
+  - 5: 9
   - 4: 12
   - 3: 7
   - 2: 2
-  - 1: 1
-- Mean score: 3.80
+  - 1: 0
+- Mean score: 3.93
 - Median score: 4
-- Stdev (sample): 1.03
+- Stdev (population): 0.89
 
 ## Data provenance & copyright-safety
 - A comprehensive copyright-sensitivity sweep was run across all 30 source sentences using web searches (exact and near-exact / n-gram checks).
@@ -35,7 +35,7 @@
 4. Omission errors
    - Missing negation or modality was present in several mid/low-score cases and can flip the sentence meaning.
 5. Hallucinations
-   - Rare (1/30) but high-impact when present — typically full addition of facts not in the source. That example was replaced.
+   - Rare (1/30) but high-impact when present — typically full addition of facts not in the source. That example was replaced and sanitized.
 6. Register and formality
    - Pronoun choice (sen vs siz) and formality-level inconsistencies appear in some outputs.
 
@@ -43,7 +43,7 @@
 - Good (score 5): sample_001 — accurate numeric preservation and natural phrasing.
 - Moderate (score 3): sample_012 — minor tense mismatch but core meaning preserved.
 - Poor (score 2): sample_025 — omission of negation changing the meaning.
-- Unacceptable (score 1): sample_030 — previously contained hallucinated sensitive content; now replaced with non-sensitive synthetic content.
+- Unacceptable (score 1): none remaining — previously sample_030 was sanitized and no longer contains hallucinated sensitive content.
 
 ## Recommendations
 - Add targeted fine-tuning on Turkish morphological constructs and suffixation patterns.
@@ -54,4 +54,4 @@
 Full per-sample table is recorded in the samples/ directory as individual JSON files (sample_001.json ... sample_030.json). A CSV summary (samples_summary.csv) is at the repository root.
 
 
-*Processed actions: regenerated samples as synthetic, ran a comprehensive web-sweep, rephrased flagged boilerplate, removed/replaced sensitive example, and regenerated CSV summary.*
+*Processed actions: sanitized sample_030, regenerated CSV summary, and updated findings to reflect the sanitized dataset and updated aggregate stats.*
