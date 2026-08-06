@@ -1,0 +1,31 @@
+id,source,match,match_type,notes,sources
+sample_001,"The device battery lasts up to ten hours on a single charge.",none,,"No exact or near-exact matches found in web sweep.",
+sample_002,"O, yarın sabahki toplantıya katılmayacağını söyledi.",none,,"No exact or near-exact matches found in web sweep.",
+sample_003,"Could you share the report by 17:00, please?",none,,"No exact or near-exact matches found in web sweep.",
+sample_004,"Toplantı tutanağı tamamlandı ve ilgili ekler eklenecek.",none,,"No exact or near-exact matches found in web sweep.",
+sample_005,"She drove to the riverside office to deliver the contract.",none,,"No exact or near-exact matches found in web sweep.",
+sample_006,"Projeye üç yeni gönüllü daha eklendi.",none,,"No exact or near-exact matches found in web sweep.",
+sample_007,"I look forward to seeing your update next week.",none,,"No exact or near-exact matches found in web sweep.",
+sample_008,"Bu dosya şu an güvenlik taramasından geçmedi.",none,,"No exact or near-exact matches found in web sweep; phrase is plausible in product UIs.",
+sample_009,"A compact orange drone hovered above the test field.",none,,"No exact or near-exact matches found in web sweep.",
+sample_010,"Teklif fiyatını onayladığımızı bildiririz.",none,,"No exact or near-exact matches found in web sweep.",
+sample_011,"Please update the document and resend it to the team.",none,,"No exact or near-exact matches found in web sweep.",
+sample_012,"Olabilecek tüm risk faktörleri detaylıca incelendi.",none,,"No exact or near-exact matches found in web sweep.",
+sample_013,"Don't forget to back up the configuration before the update.",none,,"No exact or near-exact matches found in web sweep.",
+sample_014,"Randevuyu başka bir zamana almak mümkün müdür?",yes,near-exact/common,"Rescheduling question appears on multiple Turkish FAQ pages; rephrased earlier to reduce boilerplate overlap.","https://www.bilgidunyasi.com/saat/182-randevu-saat-kacta-alinir;https://evarsadegeri.com/blog/tapu-randevusu-nasil-alinir/"
+sample_015,"We plan to increase system capacity by a factor of two this quarter.",none,,"No exact or near-exact matches found in web sweep.",
+sample_016,"Toplantı, konuşmacının sağlık durumu nedeniyle iptal edildi.",none,,"No exact or near-exact matches found in web sweep.",
+sample_017,"She did not receive the payment confirmation email.",similar,related-discussion,"No exact verbatim matches found; related forum/Q&A posts exist.","https://learn.microsoft.com/en-us/answers/questions/5616526/made-payment-did-not-receive-confirmation;https://textranch.com/c/we-didnt-receive-the-payment-or-we-did-not-received-the-payment/"
+sample_018,"Lütfen kullanıcı kimliğinizi ve şifrenizi giriniz.",none,,"No exact or near-exact matches found in web sweep.",
+sample_019,"The report requires revision; see the reviewer comments.",none,,"No exact or near-exact matches found in web sweep.",
+sample_020,"Projeyi haftaya Pazartesi'ye erteledik.",none,,"No exact or near-exact matches found in web sweep.",
+sample_021,"I can't find the attachment you mentioned.",none,,"No exact or near-exact matches found in web sweep.",
+sample_022,"Bu işlem geri alınamaz.",yes,common_boilerplate,"Common UI warning phrase in Turkish; reworded earlier to reduce overlap.","https://www.bing.com/search?q=%22Bu+i%C5%9Flem+geri+getirilemez.%22"
+sample_023,"Please confirm receipt of the attached documents.",yes,common_boilerplate,"Appears in email etiquette guides; rephrased earlier to reduce boilerplate overlap.","https://pporo.com/professional-alternative-to-please-confirm-receipt/;https://textranch.com/c/receipt-of-the-attached-files-or-receipt-of-the-files-attached/"
+sample_024,"Sunucu sürümü 3.2'ye başarıyla yükseltildi.",none,,"No exact or near-exact matches found in web sweep.",
+sample_025,"She can no longer access the project dashboard.",none,,"No exact or near-exact matches found in web sweep.",
+sample_026,"The backup completed successfully and files were relocated.",none,,"No exact or near-exact matches found in web sweep.",
+sample_027,"Would you prefer tea or coffee with your breakfast?",none,,"No exact or near-exact matches found in web sweep.",
+sample_028,"Kayıtlar silinmiş olabilir.",none,,"No exact or near-exact matches found in web sweep.",
+sample_029,"We will dispatch the order by Friday afternoon.",none,,"No exact or near-exact matches found in web sweep.",
+sample_030,"The document mentions the customer's contact details in the header.",replaced,replaced_sensitive,"Previously contained hallucinated sensitive data and was replaced with a non-sensitive synthetic sentence.",
