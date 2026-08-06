@@ -1,0 +1,10 @@
+{
+  "id": "sample_024",
+  "source": "Sunucu 3.2 sürümüne yükseltildi.",
+  "source_lang": "tr",
+  "reference": "The server has been upgraded to version 3.2.",
+  "hypothesis": "Server upgraded to version 3.2.",
+  "hypothesis_lang": "en",
+  "score": 4,
+  "notes": "Missing article/auxiliary but technical message preserved."
+}

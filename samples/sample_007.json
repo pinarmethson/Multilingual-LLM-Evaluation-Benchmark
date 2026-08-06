@@ -1,0 +1,10 @@
+{
+  "id": "sample_007",
+  "source": "I'm looking forward to your reply.",
+  "source_lang": "en",
+  "reference": "Cevabınızı bekliyorum.",
+  "hypothesis": "Cevabınızı dört gözle bekliyorum.",
+  "hypothesis_lang": "tr",
+  "score": 3,
+  "notes": "Literal translation 'dört gözle' is idiomatic but slightly emphatic; acceptable."
+}

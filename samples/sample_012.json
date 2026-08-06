@@ -1,0 +1,10 @@
+{
+  "id": "sample_012",
+  "source": "Olabilecek tüm riskler değerlendirildi.",
+  "source_lang": "tr",
+  "reference": "All potential risks have been evaluated.",
+  "hypothesis": "All possible risks were evaluated.",
+  "hypothesis_lang": "en",
+  "score": 3,
+  "notes": "'Have been' vs 'were' subtle aspect difference; meaning intact."
+}

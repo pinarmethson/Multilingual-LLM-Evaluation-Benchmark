@@ -1,0 +1,10 @@
+{
+  "id": "sample_003",
+  "source": "Can you send me the file by 5 pm?",
+  "source_lang": "en",
+  "reference": "Dosyayı saat 17:00'ye kadar gönderebilir misin?",
+  "hypothesis": "Dosyayı 17:00'ye kadar gönderebilir misin?",
+  "hypothesis_lang": "tr",
+  "score": 4,
+  "notes": "Minor punctuation/formatting but polite register preserved."
+}

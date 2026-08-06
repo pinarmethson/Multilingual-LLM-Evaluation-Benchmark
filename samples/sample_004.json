@@ -1,0 +1,10 @@
+{
+  "id": "sample_004",
+  "source": "Toplantı raporu hazırlandı ve paylaşılacak.",
+  "source_lang": "tr",
+  "reference": "The meeting report has been prepared and will be shared.",
+  "hypothesis": "The meeting report is prepared and will be shared.",
+  "hypothesis_lang": "en",
+  "score": 4,
+  "notes": "Slight tense phrasing ('is prepared' vs 'has been prepared') but acceptable."
+}

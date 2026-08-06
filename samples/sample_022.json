@@ -1,0 +1,10 @@
+{
+  "id": "sample_022",
+  "source": "Bu işlem geri alınamaz.",
+  "source_lang": "tr",
+  "reference": "This operation cannot be undone.",
+  "hypothesis": "This operation can not be undone.",
+  "hypothesis_lang": "en",
+  "score": 3,
+  "notes": "Spacing of 'cannot' split; minor orthographic issue."
+}

@@ -1,0 +1,10 @@
+{
+  "id": "sample_023",
+  "source": "Please confirm receipt.",
+  "source_lang": "en",
+  "reference": "Alındığını onaylayın lütfen.",
+  "hypothesis": "Lütfen alındığını onaylayın.",
+  "hypothesis_lang": "tr",
+  "score": 4,
+  "notes": "Politeness particle placement slightly different but fine."
+}

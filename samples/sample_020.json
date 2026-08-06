@@ -1,0 +1,10 @@
+{
+  "id": "sample_020",
+  "source": "Projeyi Pazartesi'ye erteledik.",
+  "source_lang": "tr",
+  "reference": "We postponed the project to Monday.",
+  "hypothesis": "We postponed the project until Monday.",
+  "hypothesis_lang": "en",
+  "score": 4,
+  "notes": "Adds 'until' which is acceptable; meaning preserved."
+}

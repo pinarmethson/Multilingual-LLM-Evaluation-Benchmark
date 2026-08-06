@@ -1,0 +1,10 @@
+{
+  "id": "sample_021",
+  "source": "I can't find the attachment.",
+  "source_lang": "en",
+  "reference": "Ek'i bulamıyorum.",
+  "hypothesis": "Eki bulamıyorum.",
+  "hypothesis_lang": "tr",
+  "score": 5,
+  "notes": "Direct and correct."
+}

@@ -1,0 +1,10 @@
+{
+  "id": "sample_028",
+  "source": "Kayıtlar silinmiş olabilir.",
+  "source_lang": "tr",
+  "reference": "The logs may have been deleted.",
+  "hypothesis": "Logs might have been deleted.",
+  "hypothesis_lang": "en",
+  "score": 3,
+  "notes": "'Logs' untranslated but acceptable in technical context."
+}

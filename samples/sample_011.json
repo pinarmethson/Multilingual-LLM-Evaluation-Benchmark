@@ -1,0 +1,10 @@
+{
+  "id": "sample_011",
+  "source": "Please update the document and resend.",
+  "source_lang": "en",
+  "reference": "Lütfen belgeyi güncelleyin ve yeniden gönderin.",
+  "hypothesis": "Belgeyi güncelleyin ve tekrar gönderin lütfen.",
+  "hypothesis_lang": "tr",
+  "score": 4,
+  "notes": "Word order different but polite form preserved."
+}

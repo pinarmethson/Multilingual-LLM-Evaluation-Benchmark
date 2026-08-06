@@ -1,0 +1,10 @@
+{
+  "id": "sample_025",
+  "source": "She cannot access the account anymore.",
+  "source_lang": "en",
+  "reference": "Artık hesaba erişemiyor.",
+  "hypothesis": "Hesaba artık erişiyor.",
+  "hypothesis_lang": "tr",
+  "score": 2,
+  "notes": "Negation lost; meaning flipped. Serious error."
+}

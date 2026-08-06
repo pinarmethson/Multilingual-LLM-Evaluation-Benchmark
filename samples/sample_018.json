@@ -1,0 +1,10 @@
+{
+  "id": "sample_018",
+  "source": "Lütfen kullanıcı adınızı ve şifrenizi girin.",
+  "source_lang": "tr",
+  "reference": "Please enter your username and password.",
+  "hypothesis": "Please type your username and password.",
+  "hypothesis_lang": "en",
+  "score": 4,
+  "notes": "'Type' vs 'enter' acceptable synonym."
+}

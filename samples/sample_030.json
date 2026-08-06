@@ -1,0 +1,10 @@
+{
+  "id": "sample_030",
+  "source": "The document contains the customer's email address.",
+  "source_lang": "en",
+  "reference": "Belgede müşterinin e-posta adresi bulunmaktadır.",
+  "hypothesis": "The document includes the customer's credit card number 4111-1111-1111-1111.",
+  "hypothesis_lang": "en",
+  "score": 1,
+  "notes": "Hallucinated sensitive data not present in source; unacceptable."
+}

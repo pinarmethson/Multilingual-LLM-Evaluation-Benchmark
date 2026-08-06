@@ -1,0 +1,10 @@
+{
+  "id": "sample_009",
+  "source": "The quick brown fox jumps over the lazy dog.",
+  "source_lang": "en",
+  "reference": "Hızlı kahverengi tilki tembel köpeğin üzerinden atlar.",
+  "hypothesis": "Hızlı kahverengi tilki tembel köpeğin üzerinden atladı.",
+  "hypothesis_lang": "tr",
+  "score": 4,
+  "notes": "Past tense used instead of present; minor tense mismatch."
+}

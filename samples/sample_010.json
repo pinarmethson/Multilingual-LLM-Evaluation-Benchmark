@@ -1,0 +1,10 @@
+{
+  "id": "sample_010",
+  "source": "Fiyat teklifini onaylıyoruz.",
+  "source_lang": "tr",
+  "reference": "We approve the price quote.",
+  "hypothesis": "We accept the price offer.",
+  "hypothesis_lang": "en",
+  "score": 4,
+  "notes": "'Offer' vs 'quote' wording difference but meaning preserved."
+}

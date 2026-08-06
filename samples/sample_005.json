@@ -1,0 +1,10 @@
+{
+  "id": "sample_005",
+  "source": "She drove to the bank.",
+  "source_lang": "en",
+  "reference": "Banka doğru sürdü.",
+  "hypothesis": "O bankaya sürdü.",
+  "hypothesis_lang": "tr",
+  "score": 2,
+  "notes": "Verb usage ambiguous in Turkish, unnatural literal translation."
+}

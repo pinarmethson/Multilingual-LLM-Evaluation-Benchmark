@@ -1,0 +1,10 @@
+{
+  "id": "sample_002",
+  "source": "O, yarın toplantıya katılmayacak.",
+  "source_lang": "tr",
+  "reference": "He will not attend the meeting tomorrow.",
+  "hypothesis": "He will not attend the meeting tomorrow.",
+  "hypothesis_lang": "en",
+  "score": 5,
+  "notes": "Clear negation and natural English phrasing."
+}

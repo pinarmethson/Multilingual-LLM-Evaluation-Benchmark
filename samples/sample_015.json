@@ -1,0 +1,10 @@
+{
+  "id": "sample_015",
+  "source": "We need to scale the system by 2x.",
+  "source_lang": "en",
+  "reference": "Sistemi 2 katına ölçeklendirmemiz gerekiyor.",
+  "hypothesis": "Sistemi iki katına ölçeklememiz gerekiyor.",
+  "hypothesis_lang": "tr",
+  "score": 3,
+  "notes": "'ölçeklemek' vs 'ölçeklendirmek' verb choice slightly off but understandable."
+}

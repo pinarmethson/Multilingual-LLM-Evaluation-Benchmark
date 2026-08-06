@@ -1,0 +1,10 @@
+{
+  "id": "sample_027",
+  "source": "Do you want tea or coffee?",
+  "source_lang": "en",
+  "reference": "Çay mı yoksa kahve mi istersiniz?",
+  "hypothesis": "Çay mı kahve mi istersiniz?",
+  "hypothesis_lang": "tr",
+  "score": 5,
+  "notes": "Natural polite phrasing."
+}

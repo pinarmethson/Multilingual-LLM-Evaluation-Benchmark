@@ -1,0 +1,10 @@
+{
+  "id": "sample_008",
+  "source": "Bu dosya güvenli değil.",
+  "source_lang": "tr",
+  "reference": "This file is not safe.",
+  "hypothesis": "This file isn't secure.",
+  "hypothesis_lang": "en",
+  "score": 3,
+  "notes": "'Secure' vs 'safe' slightly different nuance but acceptable."
+}

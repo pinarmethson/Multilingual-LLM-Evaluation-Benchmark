@@ -1,0 +1,10 @@
+{
+  "id": "sample_014",
+  "source": "Randevu saatini değiştirebilir miyim?",
+  "source_lang": "tr",
+  "reference": "Can I change the appointment time?",
+  "hypothesis": "Can I change my appointment time?",
+  "hypothesis_lang": "en",
+  "score": 5,
+  "notes": "Adds 'my' which is natural; acceptable."
+}

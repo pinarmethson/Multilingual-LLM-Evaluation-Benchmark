@@ -1,0 +1,10 @@
+{
+  "id": "sample_019",
+  "source": "The report needs revision: see comments.",
+  "source_lang": "en",
+  "reference": "Raporun revizyona ihtiyacı var: yorumlara bakınız.",
+  "hypothesis": "Rapor revizyona ihtiyaç duyuyor: yorumlara bakın.",
+  "hypothesis_lang": "tr",
+  "score": 3,
+  "notes": "Tone slightly informal; core message present."
+}

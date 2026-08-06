@@ -1,0 +1,10 @@
+{
+  "id": "sample_026",
+  "source": "Yedekleme başarılı oldu ve dosyalar taşındı.",
+  "source_lang": "tr",
+  "reference": "Backup succeeded and files were transferred.",
+  "hypothesis": "Backup successful and files moved.",
+  "hypothesis_lang": "en",
+  "score": 4,
+  "notes": "Concise, natural technical phrasing."
+}

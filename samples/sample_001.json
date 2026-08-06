@@ -1,0 +1,10 @@
+{
+  "id": "sample_001",
+  "source": "The battery lasts up to 10 hours.",
+  "source_lang": "en",
+  "reference": "Pil 10 saate kadar dayanır.",
+  "hypothesis": "Pil 10 saate kadar dayanır.",
+  "hypothesis_lang": "tr",
+  "score": 5,
+  "notes": "Accurate numeric and natural phrasing; register preserved."
+}

@@ -1,0 +1,10 @@
+{
+  "id": "sample_006",
+  "source": "Projeye 3 yeni üye eklendi.",
+  "source_lang": "tr",
+  "reference": "Three new members were added to the project.",
+  "hypothesis": "Three new members added to the project.",
+  "hypothesis_lang": "en",
+  "score": 4,
+  "notes": "Missing auxiliary verb 'were' but overall clear."
+}

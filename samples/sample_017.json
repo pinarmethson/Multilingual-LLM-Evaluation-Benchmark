@@ -1,0 +1,10 @@
+{
+  "id": "sample_017",
+  "source": "She didn't receive the email.",
+  "source_lang": "en",
+  "reference": "E-postayı almadı.",
+  "hypothesis": "E-postayı almadı.",
+  "hypothesis_lang": "tr",
+  "score": 5,
+  "notes": "Negation preserved accurately."
+}

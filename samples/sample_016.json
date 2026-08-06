@@ -1,0 +1,10 @@
+{
+  "id": "sample_016",
+  "source": "Toplantı iptal edildi çünkü konuşmacı hasta.",
+  "source_lang": "tr",
+  "reference": "The meeting was cancelled because the speaker is ill.",
+  "hypothesis": "The meeting got cancelled because the speaker was sick.",
+  "hypothesis_lang": "en",
+  "score": 4,
+  "notes": "Informal phrasing 'got cancelled' and 'was sick' but clear."
+}

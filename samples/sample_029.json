@@ -1,0 +1,10 @@
+{
+  "id": "sample_029",
+  "source": "We will ship the order by Friday.",
+  "source_lang": "en",
+  "reference": "Siparişi Cuma'ya kadar göndereceğiz.",
+  "hypothesis": "Siparişi Cuma'ya kadar göndereceğiz.",
+  "hypothesis_lang": "tr",
+  "score": 5,
+  "notes": "Correct and natural."
+}

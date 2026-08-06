@@ -1,0 +1,10 @@
+{
+  "id": "sample_013",
+  "source": "Do not forget to back up your data.",
+  "source_lang": "en",
+  "reference": "Verilerinizi yedeklemeyi unutmayın.",
+  "hypothesis": "Verilerinizi yedeklemeyi unutmayın.",
+  "hypothesis_lang": "tr",
+  "score": 5,
+  "notes": "Direct and correct imperative form."
+}
