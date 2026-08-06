@@ -28,6 +28,21 @@ Scoring scale (1 to 5):
 - Accurate, fluent, and natural; preserves nuance, tone, and register.
 - No meaningful errors; correct vocabulary and idiomatic phrasing.
 
+
+## Rubric dimensions (example)
+Below is an explicit example dimension focusing on fidelity / meaning drift. Use this as a reference when judging whether the hypothesis has preserved the source meaning.
+
+| Score | Definition |
+|---|---|
+| 5 | Fully faithful, no drift |
+| 3 | Minor drift, meaning largely preserved |
+| 1 | Significant hallucination or fabricated content |
+
+Notes on applying the fidelity dimension
+- Fidelity is critical: if the hypothesis introduces facts not present in the source (hallucination) or reverses key facts (e.g., loss of negation), prefer the lower score.
+- When multiple dimensions conflict (fluency vs fidelity), prioritize fidelity: a fluent but hallucinated output should be scored lower than a less fluent but faithful one.
+- Record short notes explaining the main error types (wording, omission, tense, mistranslation, cultural mismatch, hallucination) and flag hallucinations explicitly.
+
 Annotation notes
 - Prefer literal fidelity for named entities, numbers, and instructions; favor natural phrasing elsewhere.
 - When in doubt between two close scores, prefer the lower one (be conservative).
